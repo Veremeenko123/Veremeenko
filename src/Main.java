@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Привет мир!");
         System.out.println("Пока мир!");
+        System.out.println("Как дела мир?");
+        System.out.println("Что делаешь мир?");
         }
     }
